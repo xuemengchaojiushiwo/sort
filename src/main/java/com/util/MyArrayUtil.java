@@ -12,7 +12,7 @@ public class MyArrayUtil {
 	* @throws
 	 */
 //冲突
-
+//冲突      2-2
 
 	public static void  printArray(int[] aim){
 		System.out.println(Arrays.toString(aim));
