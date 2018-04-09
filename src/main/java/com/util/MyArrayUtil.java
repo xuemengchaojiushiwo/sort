@@ -37,6 +37,8 @@ public class MyArrayUtil {
 
 //tttttttttttttttttttttttttttttttttttttttttt
 
+
+//head
 	public static void  printArray(int[] aim){
 		System.out.println(Arrays.toString(aim));
 	}
