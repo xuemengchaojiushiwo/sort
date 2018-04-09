@@ -16,12 +16,16 @@ public class MyArrayUtil {
 	//hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 //ooooooooooooooooooooooooooooooooooooooooo
 //hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
 	
 	
 	
 	
 	//xmcxcm
 //hhhxmcxcmcxsak
+
+//xmcxcm
+
 	public static void  printArray(int[] aim){
 		System.out.println(Arrays.toString(aim));
 	}
