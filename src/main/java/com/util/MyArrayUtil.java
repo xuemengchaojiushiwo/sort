@@ -15,6 +15,7 @@ public class MyArrayUtil {
 //冲突      2-2
 //解决冲突2-2
 //冲突2
+//冲突   3-3
 
 
 	public static void  printArray(int[] aim){
