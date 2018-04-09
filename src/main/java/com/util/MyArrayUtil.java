@@ -22,12 +22,21 @@ public class MyArrayUtil {
 	
 	
 	//xmcxcm
+
 //hhhxmcxcmcxsak
 
 //xmcxcm
 //ppppppppppppppppppppppp
 
 //tttttttttttttttttttttttttttttttttttttttttt
+
+//hhhxmcxcmcxsak
+
+//xmcxcm
+
+
+//tttttttttttttttttttttttttttttttttttttttttt
+
 	public static void  printArray(int[] aim){
 		System.out.println(Arrays.toString(aim));
 	}
