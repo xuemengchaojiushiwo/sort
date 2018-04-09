@@ -11,34 +11,9 @@ public class MyArrayUtil {
 	* @return void    
 	* @throws
 	 */
-//ffffffffffffffffffffffffffffffffffffffffffff
-//kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-	//hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-//ooooooooooooooooooooooooooooooooooooooooo
-//hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
-	
-	
-	
-	
-	//xmcxcm
-
-//hhhxmcxcmcxsak
-
-//xmcxcm
-//ppppppppppppppppppppppp
-
-//tttttttttttttttttttttttttttttttttttttttttt
-
-//hhhxmcxcmcxsak
-
-//xmcxcm
+//冲突
 
 
-//tttttttttttttttttttttttttttttttttttttttttt
-
-
-//head
 	public static void  printArray(int[] aim){
 		System.out.println(Arrays.toString(aim));
 	}
