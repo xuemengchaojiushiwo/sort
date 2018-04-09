@@ -25,7 +25,9 @@ public class MyArrayUtil {
 //hhhxmcxcmcxsak
 
 //xmcxcm
+//ppppppppppppppppppppppp
 
+//tttttttttttttttttttttttttttttttttttttttttt
 	public static void  printArray(int[] aim){
 		System.out.println(Arrays.toString(aim));
 	}
