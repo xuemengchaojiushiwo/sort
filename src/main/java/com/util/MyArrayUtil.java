@@ -13,6 +13,7 @@ public class MyArrayUtil {
 	 */
 //ffffffffffffffffffffffffffffffffffffffffffff
 //kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+//hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 	public static void  printArray(int[] aim){
 		System.out.println(Arrays.toString(aim));
 	}
