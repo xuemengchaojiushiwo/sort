@@ -13,6 +13,9 @@ public class MyArrayUtil {
 	 */
 //冲突
 //冲突      2-2
+//解决冲突2-2
+//冲突2
+
 
 	public static void  printArray(int[] aim){
 		System.out.println(Arrays.toString(aim));
