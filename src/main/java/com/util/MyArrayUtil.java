@@ -12,6 +12,7 @@ public class MyArrayUtil {
 	* @throws
 	 */
 //ffffffffffffffffffffffffffffffffffffffffffff
+//kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 	public static void  printArray(int[] aim){
 		System.out.println(Arrays.toString(aim));
 	}
