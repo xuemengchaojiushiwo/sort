@@ -31,7 +31,7 @@ public class MyArrayUtil {
 
 //冲突5
 
-
+//冲突6-6
 
 
 	public static void  printArray(int[] aim){
