@@ -8,6 +8,8 @@ public class Test {
 		System.out.println(color);
 	}
 	static void showColor(Color color){
+		
+		////////
         switch ( color ) {
         case BLANK:
             System.out.println( color );
