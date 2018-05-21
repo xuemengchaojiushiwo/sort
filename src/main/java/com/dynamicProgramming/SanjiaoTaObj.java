@@ -8,6 +8,7 @@ package com.dynamicProgramming;
 *
  */
 public class SanjiaoTaObj {
+	//////
 	//三角塔的层数
 	private int level;
 	//三角塔数据
